@@ -1,7 +1,7 @@
 # What is this project about?
-* Populating a 2 dimensional arraylist with playing cards
-* Performing a shuffle among the values in the 2D arraylist
-* Arranging each arraylist by their ranks and suits 
+* Populating an array, arraylist with class object ,and 2-dimensional arraylist 
+* Demonstrating a shuffle among the values in an array
+* Demonstrating sorting of values based on the values' ranks and suits 
 
 ![Assignment_1_Output](https://user-images.githubusercontent.com/48362970/101310109-f0b47c80-3888-11eb-9a47-6e93692e73ef.png)
 
